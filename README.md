@@ -11,22 +11,26 @@ Projeto escrito para ilustrar o passo a passo de escrever uma API em GraphQL fei
 Para iniciar o projeto, baixar primeiro todas as dependências:
 
 Com Yarn:
-
-> yarn install
+```console
+ yarn install
+```
 
 Com NPM:
-
-> npm i
+```console
+  npm i
+```
 
 ### Rodando o projeto
 
 Uma vez que todas dependências foram baixadas e o passo a passo acima pra iniciar o Mongo foi executado com sucesso, podemos inicializar o projeto com o seguinte comando:
 
 Com Yarn:
-
-> yarn dev
+```console
+  yarn dev
+```
 
 Com NPM:
-
-> npm run dev
+```console
+  npm run dev
+```
 
